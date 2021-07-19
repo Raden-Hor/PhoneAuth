@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "699691832039",
+    "project_id": "fir-f216e",
+    "storage_bucket": "fir-f216e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699691832039:android:8ccb05d6e222e1e0540842",
+        "android_client_info": {
+          "package_name": "com.phoneauthsmaple"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699691832039-ncn9ovqda1q9rpihkk1od4ggfienldbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSM139V_8ov0KfNwHsYN-XAUU-pSSrpAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699691832039-ncn9ovqda1q9rpihkk1od4ggfienldbd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
